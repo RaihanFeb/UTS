@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 int main() {
   int pilihan;
   double angka1, angka2;
