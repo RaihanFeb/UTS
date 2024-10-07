@@ -1,6 +1,5 @@
 #include <iostream>
-
-#using namespace std;
+using namespace std;
 
 // Fungsi untuk operasi penjumlahan
 double tambah(double x, double y) {
