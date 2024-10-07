@@ -31,10 +31,10 @@ int main() {
   double angka1, angka2;
 
   cout << "Pilih operasi:" << endl;
-  cout << "1. Tambah" << endl;
-  cout << "2. Kurang" << endl;
-  cout << "3. Kali" << endl;
-  cout << "4. Bagi" << endl;
+  cout << " + " << endl;
+  cout << " - " << endl;
+  cout << " * " << endl;
+  cout << " / " << endl;
   cout << "Masukkan pilihan (1/2/3/4): ";
   cin >> pilihan;
 
