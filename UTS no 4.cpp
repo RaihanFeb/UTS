@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+#using namespace std;
 
 // Fungsi untuk operasi penjumlahan
 double tambah(double x, double y) {
@@ -61,5 +61,5 @@ int main() {
       cout << "Input tidak valid" << endl;
   }
 
-  return 0;
+Â Â returnÂ 0;
 }
